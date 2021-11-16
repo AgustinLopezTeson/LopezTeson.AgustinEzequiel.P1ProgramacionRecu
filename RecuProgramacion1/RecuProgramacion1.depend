@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637024951 source:c:\users\agust\desktop\recu programacin\lopezteson.agustinezequiel.p1programacionrecu\recuprogramacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
