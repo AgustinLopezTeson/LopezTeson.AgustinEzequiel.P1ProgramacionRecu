@@ -29,7 +29,7 @@ int main()
 
     actualizarRecuperados(unPais,recuperadosxDia);
 
-  //  invertirCadena(cadena[20]);
+    invertirCadena(cadena[20]);
 
 
     return 0;
